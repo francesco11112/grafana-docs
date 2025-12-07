@@ -152,6 +152,10 @@ Here is a screenshot of SolrCloud monitoring the Zookeeper ensemble.
 
 <img width="1280" height="1024" alt="snapshot4" src="https://github.com/user-attachments/assets/941913d7-3a78-4060-bcc6-6610a4b806e8" />
 
+<img width="1280" height="1024" alt="snapshot4" src="https://github.com/user-attachments/assets/963a7890-fe41-4ea0-8ec3-c960f1b00a23" />
+
+
+
 ![alt image](https://github.com/francesco11112/grafana-docs/blob/4f7f9fdd3c06613bae59fd4b26a6ca4e1b9ceeff/snapshot4.png)
 
 Here is a screenshot of SolrCloud monitoring the cluster nodes.
