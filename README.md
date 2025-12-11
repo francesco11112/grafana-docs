@@ -246,6 +246,8 @@ Whilst for the 'solr' metrics we imported the Solr dashboard [via grafana.com](h
 
 JVM metrics
 
+![image alt](https://github.com/francesco11112/grafana-docs/blob/7640b2e18173f0916a1b5a1e501387f1c74ca0a3/snapshot2Nov23.png)
+
 <img width="1280" height="1024" alt="snapshot2Nov23" src="https://github.com/user-attachments/assets/051ad2c6-58ab-4a0c-8255-4f4001e7fd73" />
 
 Jetty metrics
