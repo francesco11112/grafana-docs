@@ -208,6 +208,8 @@ By clicking on the Endpoint link for these two targets we can get a detailed vie
 
 Here is the target 'prometheus'.
 
+![image alt](https://github.com/francesco11112/grafana-docs/blob/b89c8403af39b4ae0dbb24de27b4478492380de8/snapshot2Nov33.png)
+
 <img width="1280" height="1024" alt="snapshot2Nov33" src="https://github.com/user-attachments/assets/aaa722b0-b0e2-4c39-ab32-b781027f0736" />
 
 Here is the target 'solr'.
