@@ -234,6 +234,8 @@ For the 'prometheus' metrics we click on the Toolbars - Home - Drilldown - Metri
 
 <img width="1280" height="1024" alt="snapshot1Nov18" src="https://github.com/user-attachments/assets/7880972b-a762-4a69-9771-cb31c130de5a" />
 
+![image alt](https://github.com/francesco11112/grafana-docs/blob/51b69c0d8039f10fcb738d3dbaea6fa5186bf1ce/snapshot14Nov18.png)
+
 <img width="1280" height="1024" alt="snapshot14Nov18" src="https://github.com/user-attachments/assets/3cb69f82-3c37-47a4-9355-8e146bab1df2" />
 
 <img width="1280" height="1024" alt="snapshot8Nov18" src="https://github.com/user-attachments/assets/49246517-4ce2-4637-8a89-849496e7e281" />
