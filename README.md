@@ -146,6 +146,7 @@ Go to the web browser on http://localhost:8983 and connect to Solr.
 
 Here is a screenshot of SolrCloud in graph mode.
 
+![image alt](https://github.com/francesco11112/grafana-docs/blob/3d8ad1d7f0b65e5931c5c38b675494d525faf1a9/snapshot8June15.png)
 <img width="1680" height="1050" alt="snapshot8June15" src="https://github.com/user-attachments/assets/f5e814de-b9f1-4121-a334-dfd0ee6a7655" />
 
 Here is a screenshot of SolrCloud monitoring the Zookeeper ensemble.
@@ -156,7 +157,7 @@ Here is a screenshot of SolrCloud monitoring the Zookeeper ensemble.
 
 
 
-![alt image](https://github.com/francesco11112/grafana-docs/blob/4f7f9fdd3c06613bae59fd4b26a6ca4e1b9ceeff/snapshot4.png)
+![image alt](https://github.com/francesco11112/grafana-docs/blob/4f7f9fdd3c06613bae59fd4b26a6ca4e1b9ceeff/snapshot4.png)
 
 Here is a screenshot of SolrCloud monitoring the cluster nodes.
 
