@@ -199,6 +199,8 @@ Go to the web browser on http://localhost:9090 and connect to the Prometheus GUI
 
 We can see from the Status Toolbar our two targets 'prometheus' and 'solr'.
 
+![image alt](https://github.com/francesco11112/grafana-docs/blob/807fc3db2f605c1ca56872d075563051e9bfb46b/snapshot2Nov32.png)
+
 <img width="1280" height="1024" alt="snapshot2Nov32" src="https://github.com/user-attachments/assets/19362e39-bd32-472b-ae36-7d2c8a97079f" />
 
 
