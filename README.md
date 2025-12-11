@@ -160,8 +160,6 @@ Here is a screenshot of SolrCloud monitoring the cluster nodes.
 
 ![image alt](https://github.com/francesco11112/grafana-docs/blob/e8adacbdc51014e994bbbed8bf12d33c4d73cb3b/snapshot6.png)
 
-<img width="1280" height="1024" alt="snapshot6" src="https://github.com/user-attachments/assets/47d60081-675d-42df-8a70-f85e78c29d29" />
-
 ## Historian
 
 Next start Historian on one or all three nodes.
@@ -201,8 +199,6 @@ We can see from the Status Toolbar our two targets 'prometheus' and 'solr'.
 
 ![image alt](https://github.com/francesco11112/grafana-docs/blob/807fc3db2f605c1ca56872d075563051e9bfb46b/snapshot2Nov32.png)
 
-<img width="1280" height="1024" alt="snapshot2Nov32" src="https://github.com/user-attachments/assets/19362e39-bd32-472b-ae36-7d2c8a97079f" />
-
 
 By clicking on the Endpoint link for these two targets we can get a detailed view of the metrics being scraped.
 
@@ -210,12 +206,9 @@ Here is the target 'prometheus'.
 
 ![image alt](https://github.com/francesco11112/grafana-docs/blob/b89c8403af39b4ae0dbb24de27b4478492380de8/snapshot2Nov33.png)
 
-<img width="1280" height="1024" alt="snapshot2Nov33" src="https://github.com/user-attachments/assets/aaa722b0-b0e2-4c39-ab32-b781027f0736" />
-
 Here is the target 'solr'.
 
 ![image alt](https://github.com/francesco11112/grafana-docs/blob/4c37487d35eb95badbd6e8f78c5c08f0580aad68/snapshot2Nov34.png)
-<img width="1280" height="1024" alt="snapshot2Nov34" src="https://github.com/user-attachments/assets/4fb2e151-67c9-4852-8493-829199deac8b" />
 
 ## Grafana
 
@@ -232,15 +225,9 @@ For the 'prometheus' metrics we click on the Toolbars - Home - Drilldown - Metri
 
 ![image alt](https://github.com/francesco11112/grafana-docs/blob/a2d0e5e854e967c94d20e06fcb36a9fa36bfc36d/snapshot1Nov18.png)
 
-<img width="1280" height="1024" alt="snapshot1Nov18" src="https://github.com/user-attachments/assets/7880972b-a762-4a69-9771-cb31c130de5a" />
-
 ![image alt](https://github.com/francesco11112/grafana-docs/blob/51b69c0d8039f10fcb738d3dbaea6fa5186bf1ce/snapshot14Nov18.png)
 
-<img width="1280" height="1024" alt="snapshot14Nov18" src="https://github.com/user-attachments/assets/3cb69f82-3c37-47a4-9355-8e146bab1df2" />
-
 ![image alt](https://github.com/francesco11112/grafana-docs/blob/2e677382968edb05a858feeb719dcd85a05afb98/snapshot8Nov18.png)
-
-<img width="1280" height="1024" alt="snapshot8Nov18" src="https://github.com/user-attachments/assets/49246517-4ce2-4637-8a89-849496e7e281" />
 
 Whilst for the 'solr' metrics we imported the Solr dashboard [via grafana.com](https://grafana.com/grafana/dashboards/12456-solr-dashboard/) using the dashboard id 12456. This is using the 'Default' prometheus Data source. The metrics are shown for the Historian Collection. Here are three screenshots:
 
@@ -248,20 +235,13 @@ JVM metrics
 
 ![image alt](https://github.com/francesco11112/grafana-docs/blob/7640b2e18173f0916a1b5a1e501387f1c74ca0a3/snapshot2Nov23.png)
 
-<img width="1280" height="1024" alt="snapshot2Nov23" src="https://github.com/user-attachments/assets/051ad2c6-58ab-4a0c-8255-4f4001e7fd73" />
-
 Jetty metrics
 
 ![image alt](https://github.com/francesco11112/grafana-docs/blob/d48401b2749209c2eb5426742abf0be0650dbf22/snapshot2Nov22.png)
 
-<img width="1280" height="1024" alt="snapshot2Nov22" src="https://github.com/user-attachments/assets/fe7177f8-8873-4f99-9d82-bc7478c9212c" />
-
 Core metrics
 
 ![image alt](https://github.com/francesco11112/grafana-docs/blob/faa7586c1bd591150f4f8f20b02a7767a45549f4/snapshot2Nov19.png)
-
-<img width="1280" height="1024" alt="snapshot2Nov19" src="https://github.com/user-attachments/assets/5ffca323-9461-4ad5-93a3-47b1ed9e9deb" />
-
 
 The Technical Environnement is:
 
