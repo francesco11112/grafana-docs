@@ -258,6 +258,8 @@ Jetty metrics
 
 Core metrics
 
+![image alt](https://github.com/francesco11112/grafana-docs/blob/faa7586c1bd591150f4f8f20b02a7767a45549f4/snapshot2Nov19.png)
+
 <img width="1280" height="1024" alt="snapshot2Nov19" src="https://github.com/user-attachments/assets/5ffca323-9461-4ad5-93a3-47b1ed9e9deb" />
 
 
