@@ -252,6 +252,8 @@ JVM metrics
 
 Jetty metrics
 
+![image alt](https://github.com/francesco11112/grafana-docs/blob/d48401b2749209c2eb5426742abf0be0650dbf22/snapshot2Nov22.png)
+
 <img width="1280" height="1024" alt="snapshot2Nov22" src="https://github.com/user-attachments/assets/fe7177f8-8873-4f99-9d82-bc7478c9212c" />
 
 Core metrics
