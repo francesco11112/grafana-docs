@@ -214,6 +214,7 @@ Here is the target 'prometheus'.
 
 Here is the target 'solr'.
 
+![image alt](https://github.com/francesco11112/grafana-docs/blob/4c37487d35eb95badbd6e8f78c5c08f0580aad68/snapshot2Nov34.png)
 <img width="1280" height="1024" alt="snapshot2Nov34" src="https://github.com/user-attachments/assets/4fb2e151-67c9-4852-8493-829199deac8b" />
 
 ## Grafana
