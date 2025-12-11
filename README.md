@@ -230,6 +230,8 @@ Go to the web browser on http://localhost:3000 and connect to Grafana using user
 
 For the 'prometheus' metrics we click on the Toolbars - Home - Drilldown - Metrics - All Metrics. This is shown using the prometheus-1 Data source. Here are three screenshots:
 
+![image alt](https://github.com/francesco11112/grafana-docs/blob/a2d0e5e854e967c94d20e06fcb36a9fa36bfc36d/snapshot1Nov18.png)
+
 <img width="1280" height="1024" alt="snapshot1Nov18" src="https://github.com/user-attachments/assets/7880972b-a762-4a69-9771-cb31c130de5a" />
 
 <img width="1280" height="1024" alt="snapshot14Nov18" src="https://github.com/user-attachments/assets/3cb69f82-3c37-47a4-9355-8e146bab1df2" />
