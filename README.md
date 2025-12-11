@@ -238,6 +238,8 @@ For the 'prometheus' metrics we click on the Toolbars - Home - Drilldown - Metri
 
 <img width="1280" height="1024" alt="snapshot14Nov18" src="https://github.com/user-attachments/assets/3cb69f82-3c37-47a4-9355-8e146bab1df2" />
 
+![image alt](https://github.com/francesco11112/grafana-docs/blob/2e677382968edb05a858feeb719dcd85a05afb98/snapshot8Nov18.png)
+
 <img width="1280" height="1024" alt="snapshot8Nov18" src="https://github.com/user-attachments/assets/49246517-4ce2-4637-8a89-849496e7e281" />
 
 Whilst for the 'solr' metrics we imported the Solr dashboard [via grafana.com](https://grafana.com/grafana/dashboards/12456-solr-dashboard/) using the dashboard id 12456. This is using the 'Default' prometheus Data source. The metrics are shown for the Historian Collection. Here are three screenshots:
