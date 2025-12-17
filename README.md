@@ -78,8 +78,6 @@ You can test that the Prometheus server, `solr-exporter`, and Solr are working 
 
 ## Sample Grafana Dashboard
 
-To use Grafana for visualization, it must be downloaded and deployed separately. More information can be found on the Grafana [Documentation](https://grafana.com/docs/grafana/latest/) site.
-
 A Grafana sample dashboard is provided in the following JSON file: `prometheus-exporter/conf/grafana-solr-dashboard.json`. You can place this with your other Grafana dashboard configurations and modify it as necessary depending on any customization you’ve done for the `solr-exporter` configuration.
 
 You can directly import the Solr dashboard [via grafana.com](https://grafana.com/grafana/dashboards/12456-solr-dashboard/) by using the Import function with the dashboard id 12456. 
