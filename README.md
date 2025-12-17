@@ -150,9 +150,6 @@ Here is a screenshot of SolrCloud in graph mode.
 
 Here is a screenshot of SolrCloud monitoring the Zookeeper ensemble.
 
-<img width="1280" height="1024" alt="snapshot4" src="https://github.com/user-attachments/assets/963a7890-fe41-4ea0-8ec3-c960f1b00a23" />
-
-
 
 ![image alt](https://github.com/francesco11112/grafana-docs/blob/4f7f9fdd3c06613bae59fd4b26a6ca4e1b9ceeff/snapshot4.png)
 
@@ -229,7 +226,7 @@ For the 'prometheus' metrics we click on the Toolbars - Home - Drilldown - Metri
 
 ![image alt](https://github.com/francesco11112/grafana-docs/blob/2e677382968edb05a858feeb719dcd85a05afb98/snapshot8Nov18.png)
 
-Whilst for the 'solr' metrics we imported the Solr dashboard [via grafana.com](https://grafana.com/grafana/dashboards/12456-solr-dashboard/) using the dashboard id 12456. This is using the 'Default' prometheus Data source. The metrics are shown for the Historian Collection. Here are three screenshots:
+Whilst for the 'solr' metrics we import the Solr dashboard [via grafana.com](https://grafana.com/grafana/dashboards/12456-solr-dashboard/) using the dashboard id 12456. This is using the 'Default' prometheus Data source. The metrics are shown for the Historian Collection. Here are three screenshots:
 
 JVM metrics
 
